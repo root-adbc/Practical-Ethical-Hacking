@@ -10,4 +10,4 @@
 -Learn how to write a pentest report\
 -Understand the security threats affecting networks and applications\
 -OWASP Top 10\
--IT security trends\
+-IT security trends
