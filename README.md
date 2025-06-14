@@ -1,6 +1,6 @@
 # Practical-Ethical-Hacking
 
-###Effective Notekeeping.  An ethical hacker is only as good as the notes he or she keeps.  We will discuss the important tools you can use to keep notes and be successful in the course and in the field.
+### Effective Notekeeping.  An ethical hacker is only as good as the notes he or she keeps.  We will discuss the important tools you can use to keep notes and be successful in the course and in the field.
 
 Networking Refresher.  This section focuses on the concepts of computer networking.  We will discuss common ports and protocols, the OSI model, subnetting, and even walk through a network build with using Cisco CLI.
 
