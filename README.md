@@ -11,3 +11,9 @@
 - Understand the security threats affecting networks and applications
 - OWASP Top 10
 - IT security trends
+- Coding Custom Pentesting Tools
+- System Hacking
+- Man in the Middle Attacks
+- Python Programming Fundamentals
+- Linux Commands
+  
