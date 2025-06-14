@@ -9,7 +9,8 @@
 * Network hacking techniques and defenses
 * Active Directory exploitation and mitigation
 * System hacking & privilege escalation
-
+* Man-in-the-Middle (MITM) attacks & defenses
+  
 ### 🌐 **Web Application Security**
 
 * Common web application vulnerabilities
@@ -40,8 +41,7 @@
 
 * Linux command line essentials
 * Python programming fundamentals
-* Man-in-the-Middle (MITM) attacks & defenses
-
+* SQL 
 ---
 
 ✅ *This repository documents my learning journey, practical labs, scripts, and projects as I develop my ethical hacking skills.*
